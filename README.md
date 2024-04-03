@@ -3,7 +3,7 @@
 This is my custom made uploader, uses ``curl`` and ``jq``
 
 > [!CAUTION]
-> This is still under development and dosen't work correctly with many 
+> This is still under development and dosen't work correctly with many file types
 
 ## Installation
 
