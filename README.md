@@ -10,7 +10,7 @@ This is my custom made uploader, uses ``curl`` and ``jq``
 ```
 sudo apt install curl jq
 
-#I recommend in /root or user root directory
+#I recommend in downloading it in /root or user root (For example: /home/user) directory
 cd ~
 
 #actually downloading the files and giving perms
